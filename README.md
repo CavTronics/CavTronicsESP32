@@ -16,6 +16,19 @@ How to install and setup the ESP32 environment for MAC, Windows and Linux can be
 
 [DFRobot FireBeetle ESP32 IOT](https://www.dfrobot.com/product-1590.html)
 
+## Videos
+
+Andreas Spiess
+
+[Comparison of 10 ESP32 Battery powered Boards without display (incl. deep-sleep)
+](https://www.youtube.com/watch?v=-769_YIeGmI)
+
+
+p.s:
+I **LOVE** coffee! Buy me a coffee at:   
+
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZHBUNDXJXVW4U)
+
 
 
 
