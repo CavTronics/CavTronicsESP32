@@ -8,7 +8,7 @@ ESP32 Information
 How to install and setup the ESP32 environment for MAC, Windows and Linux can be found here: 
 [arduino-esp32 github](https://github.com/espressif/arduino-esp32)
 
-##Directly
+## Directly
 
 [MAC](https://github.com/espressif/arduino-esp32/blob/master/docs/arduino-ide/mac.md)
 
@@ -16,7 +16,8 @@ How to install and setup the ESP32 environment for MAC, Windows and Linux can be
 
 [Debian ubunt](https://github.com/espressif/arduino-esp32/blob/master/docs/arduino-ide/debian_ubuntu.md)
 
-
+## Powering ESP32 Boards
+[What is the Ideal Battery Technology to Power 3.3V Devices like the ESP8266 and ESP32?](https://www.youtube.com/watch?v=heD1zw3bMhw)
 
 ## Libraries
 [Installing Software Libraries](https://www.arduino.cc/en/Guide/Libraries)
@@ -35,7 +36,7 @@ How to install and setup the ESP32 environment for MAC, Windows and Linux can be
 [Installing Libraries](https://www.arduino.cc/en/Guide/Libraries)
 
 ## Support files
-[firebeetle](https://github.com/Arduinolibrary?utf8=%E2%9C%93&tab=repositories&q=firebeetle&type=&language=)
+[Firebeetle](https://github.com/Arduinolibrary?utf8=%E2%9C%93&tab=repositories&q=firebeetle&type=&language=)
 
 [Firebeetle ESP32 schematic](https://github.com/Robert-MARKII/Document/blob/master/%5BDFR0478%5DFireBeetle%20Board-ESP32\(V1.0\).pdf)
 
