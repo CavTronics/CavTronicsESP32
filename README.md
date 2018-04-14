@@ -1,10 +1,22 @@
 [![cavtronics logo](https://cldup.com/BhJv2ZU0rj.jpg)](http://www.cavtronics.com "cavtronics")
 # ESP32
+![ESP32](https://img.shields.io/badge/ESP-32-000000.svg?longCache=true&style=flat&colorA=CC101F)
+
 ESP32 Information
 
 # Installing 
 How to install and setup the ESP32 environment for MAC, Windows and Linux can be found here: 
 [arduino-esp32 github](https://github.com/espressif/arduino-esp32)
+
+##Directly
+
+[MAC](https://github.com/espressif/arduino-esp32/blob/master/docs/arduino-ide/mac.md)
+
+[Windows](https://github.com/espressif/arduino-esp32/blob/master/docs/arduino-ide/windows.md)
+
+[Debian ubunt](https://github.com/espressif/arduino-esp32/blob/master/docs/arduino-ide/debian_ubuntu.md)
+
+
 
 ## Libraries
 [Installing Software Libraries](https://www.arduino.cc/en/Guide/Libraries)
@@ -19,7 +31,7 @@ How to install and setup the ESP32 environment for MAC, Windows and Linux can be
 
 [DFRobot FireBeetle ESP32 IOT](https://www.dfrobot.com/product-1590.html)
 
-## Libraries
+## Libraries Install
 [Installing Libraries](https://www.arduino.cc/en/Guide/Libraries)
 
 ## Support files
@@ -33,6 +45,7 @@ How to install and setup the ESP32 environment for MAC, Windows and Linux can be
 
 [Firebeetle Covers LED Matrix](https://www.dfrobot.com/wiki/index.php/FireBeetle_Covers-24%C3%978_LED_Matrix_\(White\)_SKU:_DFR0484)
 
+[ESP32 Wiki](https://en.wikipedia.org/wiki/ESP32)
 
 ## Videos
 
@@ -41,6 +54,8 @@ Andreas Spiess
 [Comparison of 10 ESP32 Battery powered Boards without display (incl. deep-sleep)
 ](https://www.youtube.com/watch?v=-769_YIeGmI)
 
+## Libraries
+[WiFiManager](https://github.com/tzapu/WiFiManager/tree/development)
 
 p.s:
 I **LOVE** coffee! Buy me a coffee at:   
