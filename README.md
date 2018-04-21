@@ -32,6 +32,8 @@ How to install and setup the ESP32 environment for MAC, Windows and Linux can be
 
 [DFRobot FireBeetle ESP32 IOT](https://www.dfrobot.com/product-1590.html)
 
+[ESP32 learning](http://www.esp32learning.com/)
+
 ## Libraries Install
 [Installing Libraries](https://www.arduino.cc/en/Guide/Libraries)
 
@@ -47,6 +49,8 @@ How to install and setup the ESP32 environment for MAC, Windows and Linux can be
 [Firebeetle Covers LED Matrix](https://www.dfrobot.com/wiki/index.php/FireBeetle_Covers-24%C3%978_LED_Matrix_\(White\)_SKU:_DFR0484)
 
 [ESP32 Wiki](https://en.wikipedia.org/wiki/ESP32)
+
+[GeeekNET ESP32 Development Board](https://wiki.52pi.com/index.php?title=GeeekNET_ESP32_Development_Board_SKU:_EZ-0062)
 
 ## Videos
 
