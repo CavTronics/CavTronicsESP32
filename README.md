@@ -52,6 +52,8 @@ How to install and setup the ESP32 environment for MAC, Windows and Linux can be
 
 [GeeekNET ESP32 Development Board](https://wiki.52pi.com/index.php?title=GeeekNET_ESP32_Development_Board_SKU:_EZ-0062)
 
+[ESP32 Wiki](https://en.wikipedia.org/wiki/ESP32)
+
 ## Videos
 
 Andreas Spiess
