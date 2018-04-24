@@ -1,6 +1,6 @@
 [![cavtronics logo](https://cldup.com/BhJv2ZU0rj.jpg)](http://www.cavtronics.com "cavtronics")
 
-# How to find the chip revision
+# How to find the chip revision number
 
 Espressif manufactured two different revisions of the ES32 chip to date:
 
@@ -18,7 +18,7 @@ specifying the serial port ( -p ) of the board in a command prompt type the foll
 
     python espefuse.py -p /dev/cu.wchusbserial1420 summary
 
-## Results
+### Results
 The revision of the CHIP_VERSION and CHIP_PACKAGE you can determine the revision of the chip, for example my Lolin32 board has a chip with  revision 0 :
 
     Identity fuses:
